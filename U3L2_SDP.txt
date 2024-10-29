@@ -1,2 +1,2 @@
 1. It runs out of recursions
-2. Because it has a limit, as shown here
+2. Because it has a limit, as seen when setting it to 1000
